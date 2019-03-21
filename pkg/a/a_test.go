@@ -1,14 +1,13 @@
-package a 
+package a
 
-import {
-	"testing"
+import (
 	"b"
-}
+)
 
 func TestPrintA(t *t.Testing) {
-	PrintA() 
+	PrintA()
 }
 
 func TestPrintB(t *t.Testing) {
-	b.PrintA() 
+	b.PrintA()
 }
