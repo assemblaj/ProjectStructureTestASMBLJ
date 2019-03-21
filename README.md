@@ -1,0 +1,2 @@
+# ProjectStructureTestASMBLJ
+test
