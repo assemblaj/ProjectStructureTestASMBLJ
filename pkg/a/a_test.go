@@ -9,5 +9,5 @@ func TestPrintA(t *t.Testing) {
 }
 
 func TestPrintB(t *t.Testing) {
-	b.PrintA()
+	b.PrintB()
 }
