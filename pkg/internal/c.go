@@ -1,4 +1,4 @@
-package c
+package internal
 
 /**
 	I've moved this up and down the project hierarchy and
