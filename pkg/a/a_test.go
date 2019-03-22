@@ -1,13 +1,15 @@
 package a
 
 import (
-	"b"
+	"testing"
+
+	b "github.com/assemblaj/ProjectStructureTestASMBLJ/pkg/b"
 )
 
-func TestPrintA(t *t.Testing) {
+func TestPrintA(t *testing.T) {
 	PrintA()
 }
 
-func TestPrintB(t *t.Testing) {
+func TestPrintB(t *testing.T) {
 	b.PrintB()
 }
