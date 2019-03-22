@@ -1,8 +1,7 @@
 package internal
 
 /**
-	I've moved this up and down the project hierarchy and
-	it doens't work anywehre else no matter what I do *shrugs*
+	These files can be used nowhere else in the program. Just in
 **/
 
 import "fmt"
